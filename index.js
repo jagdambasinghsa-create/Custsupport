@@ -5,8 +5,8 @@ const fs = require('fs-extra');
 const path = require('path');
 
 // ===== CONFIG =====
-const token = '8480744633:AAHs2wpz1cw94MaEbQbm7BLsTOUqRnvQmj8'// अपना Bot Token डालें
-const ADMIN_IDS = [-1003154691194];            // अपना Admin Chat ID डालें
+const token = '8311129762:AAFQhhG6NahdfS0F4keByHMwGi7G1_1_cw8'// अपना Bot Token डालें
+const ADMIN_IDS = [-1003040474870];            // अपना Admin Chat ID डालें
 const DEVELOPER = '@heck0bot';             // अपना Username डालें
 const PORT = 3000;
 
